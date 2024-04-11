@@ -1,0 +1,33 @@
+2022-05-24 17:10:48,503 	 [DEBUG | PngImagePlugin.py:213] > STREAM b'IHDR' 16 13
+2022-05-24 17:10:48,503 	 [DEBUG | PngImagePlugin.py:213] > STREAM b'iCCP' 41 3180
+2022-05-24 17:10:48,503 	 [DEBUG | PngImagePlugin.py:418] > iCCP profile name b'ICC Profile'
+2022-05-24 17:10:48,503 	 [DEBUG | PngImagePlugin.py:419] > Compression method 0
+2022-05-24 17:10:48,503 	 [DEBUG | PngImagePlugin.py:213] > STREAM b'eXIf' 3233 138
+2022-05-24 17:10:48,503 	 [DEBUG | PngImagePlugin.py:213] > STREAM b'pHYs' 3383 9
+2022-05-24 17:10:48,511 	 [DEBUG | PngImagePlugin.py:213] > STREAM b'iTXt' 3404 470
+2022-05-24 17:10:48,513 	 [DEBUG | PngImagePlugin.py:213] > STREAM b'iDOT' 3886 28
+2022-05-24 17:10:48,513 	 [DEBUG | PngImagePlugin.py:725] > b'iDOT' 3886 28 (unknown)
+2022-05-24 17:10:48,513 	 [DEBUG | PngImagePlugin.py:213] > STREAM b'IDAT' 3926 16384
+2022-05-24 17:10:48,599 	 [DEBUG | proactor_events.py:623] > Using proactor: IocpProactor
+2022-05-24 17:46:26,757 	 [DEBUG | PngImagePlugin.py:213] > STREAM b'IHDR' 16 13
+2022-05-24 17:46:26,762 	 [DEBUG | PngImagePlugin.py:213] > STREAM b'iCCP' 41 3180
+2022-05-24 17:46:26,762 	 [DEBUG | PngImagePlugin.py:418] > iCCP profile name b'ICC Profile'
+2022-05-24 17:46:26,762 	 [DEBUG | PngImagePlugin.py:419] > Compression method 0
+2022-05-24 17:46:26,762 	 [DEBUG | PngImagePlugin.py:213] > STREAM b'eXIf' 3233 138
+2022-05-24 17:46:26,762 	 [DEBUG | PngImagePlugin.py:213] > STREAM b'pHYs' 3383 9
+2022-05-24 17:46:26,762 	 [DEBUG | PngImagePlugin.py:213] > STREAM b'iTXt' 3404 470
+2022-05-24 17:46:26,762 	 [DEBUG | PngImagePlugin.py:213] > STREAM b'iDOT' 3886 28
+2022-05-24 17:46:26,762 	 [DEBUG | PngImagePlugin.py:725] > b'iDOT' 3886 28 (unknown)
+2022-05-24 17:46:26,762 	 [DEBUG | PngImagePlugin.py:213] > STREAM b'IDAT' 3926 16384
+2022-05-24 17:46:26,839 	 [DEBUG | proactor_events.py:623] > Using proactor: IocpProactor
+2022-05-24 17:47:07,627 	 [DEBUG | PngImagePlugin.py:213] > STREAM b'IHDR' 16 13
+2022-05-24 17:47:07,627 	 [DEBUG | PngImagePlugin.py:213] > STREAM b'iCCP' 41 3180
+2022-05-24 17:47:07,627 	 [DEBUG | PngImagePlugin.py:418] > iCCP profile name b'ICC Profile'
+2022-05-24 17:47:07,627 	 [DEBUG | PngImagePlugin.py:419] > Compression method 0
+2022-05-24 17:47:07,627 	 [DEBUG | PngImagePlugin.py:213] > STREAM b'eXIf' 3233 138
+2022-05-24 17:47:07,627 	 [DEBUG | PngImagePlugin.py:213] > STREAM b'pHYs' 3383 9
+2022-05-24 17:47:07,627 	 [DEBUG | PngImagePlugin.py:213] > STREAM b'iTXt' 3404 470
+2022-05-24 17:47:07,627 	 [DEBUG | PngImagePlugin.py:213] > STREAM b'iDOT' 3886 28
+2022-05-24 17:47:07,627 	 [DEBUG | PngImagePlugin.py:725] > b'iDOT' 3886 28 (unknown)
+2022-05-24 17:47:07,627 	 [DEBUG | PngImagePlugin.py:213] > STREAM b'IDAT' 3926 16384
+2022-05-24 17:47:07,667 	 [DEBUG | proactor_events.py:623] > Using proactor: IocpProactor

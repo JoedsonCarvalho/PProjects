@@ -1,0 +1,16 @@
+
+{% extends 'base.html' %}
+{% load static %}
+{% block content %}
+    <section class="container mt-4 col-8">
+        <p>Sua origem é: {{form.origem.value}}</p>
+        <p>Seu destino é: {{form.destino.value}}</p>
+        <p>Sua data de ida é: {{form.data_ida.value}}</p>
+        <p>Sua data de volta é: {{form.data_volta.value}}</p>
+        <p>Sua classe de vôo é: {{ form.classe_viagem.value }}</p>
+        <p>Pesquisa realizada em: {{ form.data_pesquisa }}</p>
+        <p>informações adicionais: {{ form.informacoes.value }}</p>
+        <p>email: {{ pessoa_form.email.value }}</p>
+        <a href="{%url 'index'%}"><button class="btn btn-success">Voltar</button></a>
+    </section>
+{% endblock %}

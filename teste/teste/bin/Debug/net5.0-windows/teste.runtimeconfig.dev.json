@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\carva\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\carva\\.nuget\\packages"
+    ]
+  }
+}
